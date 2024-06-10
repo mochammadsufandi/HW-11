@@ -50,7 +50,7 @@ jobs:
     - run: npm run ci-test
       env:
           POSTGRES_USER: "postgres"
-          POSTGRES_PASSWORD: "postgres"
+          POSTGRES_PASSWORD: "Ccdn0koment"
           POSTGRES_DB_TEST: "database_test_ToDo"
           HOST: "localhost"
           POSTGRES_PORT: 5432
